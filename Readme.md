@@ -1,7 +1,7 @@
 # Личный проект «Глейси»
 
 * Студент: [Anselm Excelsior](https://up.htmlacademy.ru/htmlcss/23/user/878287).
-* Наставник: `Неизвестно`.
+* Наставник: [Андрей Рычагов](https://htmlacademy.ru/profile/id50483).
 
 ---
 
